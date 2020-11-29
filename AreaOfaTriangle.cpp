@@ -8,8 +8,8 @@ int main()
 {
     float b, h, a;
 
-    cout << "Hello, Please enter the base and the height: " << endl;
-    cin >> b >> h;
+    cout << "Hello, Please enter the base and the height: " << endl; // promt
+    cin >> b >> h;                                                   // enter
 
     a = (b * h) / 2;
     cout << "The area of your triangle is: " << a << endl;
