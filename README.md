@@ -20,3 +20,7 @@ Arithmetic operations using C++
 **05_Caculate the speed**
 
 ![alt text](Demo/speed.jpeg)
+
+**06_Compound assignment**
+
+![alt text](Demo/compound.jpeg)
