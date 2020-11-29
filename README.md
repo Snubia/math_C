@@ -12,3 +12,7 @@ Arithmetic operations using C++
 **03_Area of a Circle**
 
 ![alt text](Demo/circle.jpeg)
+
+**04_Roots of a Quadractic Equation**
+
+![alt text](Demo/roots.jpeg)
